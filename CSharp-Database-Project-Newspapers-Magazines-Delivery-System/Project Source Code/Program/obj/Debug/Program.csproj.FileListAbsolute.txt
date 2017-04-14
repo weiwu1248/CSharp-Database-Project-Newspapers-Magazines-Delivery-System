@@ -1,0 +1,76 @@
+C:\Users\Wei\Desktop\Program\Program\bin\Debug\Program.exe.config
+C:\Users\Wei\Desktop\Project2(database etc)\Program\bin\Debug\Program.exe.config
+C:\Users\Wei\Desktop\Project2(database etc)\Program\bin\Debug\Database.mdf
+C:\Users\Wei\Desktop\Project2(database etc)\Program\bin\Debug\Database_log.ldf
+C:\Users\Wei\Desktop\Project2(database etc)\Program\bin\Debug\Program.exe
+C:\Users\Wei\Desktop\Project2(database etc)\Program\bin\Debug\Program.pdb
+C:\Users\Wei\Desktop\Project2(database etc)\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Desktop\Project2(database etc)\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\Wei\Desktop\Project2(database etc)\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+C:\Users\Wei\Desktop\Project2(database etc)\Program\obj\Debug\Program.exe
+C:\Users\Wei\Desktop\Project2(database etc)\Program\obj\Debug\Program.pdb
+C:\Users\Wei\Desktop\Project2(database etc)\Program\obj\Debug\Program.Form1.resources
+G:\Project2(database etc)\Program\bin\Debug\Program.exe.config
+G:\Project2(database etc)\Program\obj\Debug\Program.exe
+G:\Project2(database etc)\Program\obj\Debug\Program.pdb
+C:\Users\wei.wu.SLAS.018\Desktop\Project2(database etc)\Program\bin\Debug\Program.exe.config
+C:\Users\wei.wu.SLAS.018\Desktop\Project2(database etc)\Program\obj\Debug\Program.exe
+C:\Users\wei.wu.SLAS.018\Desktop\Project2(database etc)\Program\obj\Debug\Program.pdb
+C:\Users\wei.wu.SLAS.018\Desktop\Project2(database etc)\Program\bin\Debug\Database.mdf
+C:\Users\wei.wu.SLAS.018\Desktop\Project2(database etc)\Program\bin\Debug\Database_log.ldf
+C:\Users\wei.wu.SLAS.018\Desktop\Project2(database etc)\Program\bin\Debug\Program.exe
+C:\Users\wei.wu.SLAS.018\Desktop\Project2(database etc)\Program\bin\Debug\Program.pdb
+C:\Users\wei.wu.SLAS.018\Desktop\Project2(database etc)\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\wei.wu.SLAS.018\Desktop\Project2(database etc)\Program\obj\Debug\Program.Form1.resources
+C:\Users\wei.wu.SLAS.018\Desktop\Project2(database etc)\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\wei.wu.SLAS.018\Desktop\Project2(database etc)\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+C:\Users\wei.wu.SLAS.018\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\bin\Debug\Program.exe.config
+C:\Users\wei.wu.SLAS.018\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\obj\Debug\Program.exe
+C:\Users\wei.wu.SLAS.018\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\obj\Debug\Program.pdb
+C:\Users\wei.wu.SLAS.018\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\bin\Debug\Database.mdf
+C:\Users\wei.wu.SLAS.018\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\bin\Debug\Database_log.ldf
+C:\Users\wei.wu.SLAS.018\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\bin\Debug\Program.exe
+C:\Users\wei.wu.SLAS.018\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\bin\Debug\Program.pdb
+C:\Users\wei.wu.SLAS.018\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\wei.wu.SLAS.018\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\obj\Debug\Program.Form1.resources
+C:\Users\wei.wu.SLAS.018\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\wei.wu.SLAS.018\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\bin\Debug\Program.exe.config
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\obj\Debug\Program.exe
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\obj\Debug\Program.pdb
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\bin\Debug\Database.mdf
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\bin\Debug\Database_log.ldf
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\bin\Debug\Program.exe
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\bin\Debug\Program.pdb
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\obj\Debug\Program.Form1.resources
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\obj\Debug\Program.Login.resources
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project2 Source Code\Program\obj\Debug\Program.Signup.resources
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project Source Code\Program\bin\Debug\Program.exe.config
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project Source Code\Program\obj\Debug\Program.exe
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project Source Code\Program\obj\Debug\Program.pdb
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project Source Code\Program\bin\Debug\Database.mdf
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project Source Code\Program\bin\Debug\Database_log.ldf
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project Source Code\Program\bin\Debug\Program.exe
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project Source Code\Program\bin\Debug\Program.pdb
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project Source Code\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project Source Code\Program\obj\Debug\Program.Form1.resources
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project Source Code\Program\obj\Debug\Program.Login.resources
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project Source Code\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project Source Code\Program\obj\Debug\Program.Signup.resources
+C:\Users\Wei\Desktop\Wei Wu CSC330 Project2 (C# Database)\Project Source Code\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\bin\Debug\Program.exe.config
+F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\obj\Debug\Program.exe
+F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\obj\Debug\Program.pdb
+F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\bin\Debug\Database.mdf
+F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\bin\Debug\Database_log.ldf
+F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\bin\Debug\Program.exe
+F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\bin\Debug\Program.pdb
+F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\obj\Debug\Program.Form1.resources
+F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\obj\Debug\Program.Login.resources
+F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\obj\Debug\Program.Properties.Resources.resources
+F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\obj\Debug\Program.Signup.resources
+F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\obj\Debug\Program.csproj.GenerateResource.Cache
