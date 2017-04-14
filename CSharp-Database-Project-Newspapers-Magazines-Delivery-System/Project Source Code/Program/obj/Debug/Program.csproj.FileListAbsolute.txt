@@ -74,3 +74,6 @@ F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\o
 F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\obj\Debug\Program.Properties.Resources.resources
 F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\obj\Debug\Program.Signup.resources
 F:\aa\Wei Wu CSC330 Project2 (C# Database) revised\Project Source Code\Program\obj\Debug\Program.csproj.GenerateResource.Cache
+A:\GitHub\CSharp-Database-Project-Newspapers-Magazines-Delivery-System\CSharp-Database-Project-Newspapers-Magazines-Delivery-System\Project Source Code\Program\bin\Debug\Program.exe.config
+A:\GitHub\CSharp-Database-Project-Newspapers-Magazines-Delivery-System\CSharp-Database-Project-Newspapers-Magazines-Delivery-System\Project Source Code\Program\obj\Debug\Program.exe
+A:\GitHub\CSharp-Database-Project-Newspapers-Magazines-Delivery-System\CSharp-Database-Project-Newspapers-Magazines-Delivery-System\Project Source Code\Program\obj\Debug\Program.pdb
